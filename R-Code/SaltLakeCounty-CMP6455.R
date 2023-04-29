@@ -973,9 +973,9 @@ scen2_top %>% tmap_leaflet() %>% hideGroup("Suitability (not accounting for tran
 
 ## Outputs -----------------------------------------
 
-# https://dritter4.github.io/cmp6455/transit_analysis/rescaled-variables.html
-# https://dritter4.github.io/cmp6455/transit_analysis/ridership-suitability-top.html
-# https://dritter4.github.io/cmp6455/transit_analysis/ridership-suitability-full.html
-# https://dritter4.github.io/cmp6455/transit_analysis/jobs-suitability-top.html
-# https://dritter4.github.io/cmp6455/transit_analysis/jobs-suitability-top.html
+# https://dritter4.github.io/CMP-6455/transit_analysis/rescaled-variables.html
+# https://dritter4.github.io/CMP-6455/transit_analysis/ridership-suitability-top.html
+# https://dritter4.github.io/CMP-6455/transit_analysis/ridership-suitability-full.html
+# https://dritter4.github.io/CMP-6455/transit_analysis/jobs-suitability-top.html
+# https://dritter4.github.io/CMP-6455/transit_analysis/jobs-suitability-top.html
 
